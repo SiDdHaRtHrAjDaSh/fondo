@@ -88,6 +88,10 @@ var con_data = {
     "port" : "3306"
 };
 
+//this is a comment for hacktoberfest2020 by sid
+
+
+
 //ddddddddddddddddddddddddddddddddddddddd
 // var db_config = {
 //   host: 'localhost',
